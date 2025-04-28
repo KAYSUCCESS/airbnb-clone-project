@@ -31,3 +31,12 @@ Design the layout and visual elements of the application.
 Ensure a consistent brand identity across the application.
 Collaborate with frontend developers to implement designs.
 Conduct usability testing to gather feedback and improve designs.
+
+**Font family Source Sans Pro
+
+#Project Roles and Responsibilities.
+
+
+
+
+#UI Component Patterns
