@@ -1,5 +1,5 @@
 # airbnb-clone-project
-# AirBnB Clone Project
+
 
 At the end of this program, you will have developed adequate knowledge and skills to implement any type of system. You will:
 
@@ -9,7 +9,7 @@ Adhere to designated timelines and milestones.
 Utilize the necessary tools and technologies.
 Fulfill your roles and responsibilities within the project.
 
-## Project Goals
+#Project Goals
 - Build the backend and frontend of a rental service.
 - Understand how web applications are structured.
 - Practice teamwork and project collaboration.
@@ -22,3 +22,12 @@ Other Tools: Redux or Context API for state management, REST for API integration
 
 
 Added project overview to README.md
+
+#UI/UX Design Planning
+Overview: Designers are responsible for the visual and interactive aspects of the application, ensuring it is user-friendly and aesthetically pleasing.
+Key Responsibilities:
+Create wireframes, mockups, and prototypes.
+Design the layout and visual elements of the application.
+Ensure a consistent brand identity across the application.
+Collaborate with frontend developers to implement designs.
+Conduct usability testing to gather feedback and improve designs.
